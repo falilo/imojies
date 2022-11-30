@@ -1,0 +1,59 @@
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 20px;
+	cursor: pointer;
+	text-align: center;
+	font-size: 10em;
+	border-radius: 4px;
+	border: 1px solid #bbb;
+	transition: all 0.3s linear;
+}
+
+
+.zonegreen{
+	background-color: green;
+
+}
+
+.zonered{
+	background-color: red;
+}
+
+.zoneyellow{
+	background-color: yellow;
+}
+
+.zoneblue{
+	background-color: blue;
+}
+
+.zonewhite{
+	background-color: white;
+}
+
+.zonegray{
+	background-color: gray;
+}
+
+.zonepink{
+	background-color: pink;
+}
+
+.zonepurple{
+	background-color: purple;
+}
+
+.zonelightblue{
+	background-color: lightblue;
+}
+
+.zoneblack{
+	background-color: black;
+}
+
+.zoneyellowgreen{
+	background-color: yellowgreen;
+}
+
+.zonedarkblue{background-color: darkblue;}
